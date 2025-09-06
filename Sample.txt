@@ -1,0 +1,2 @@
+This is just a file to learn VCS. 
+Intention is to make changes and commit them.
